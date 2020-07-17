@@ -1,3 +1,4 @@
+# test.py#
 import logging;logging.basicConfig(level = logging.INFO) #导入log记录文件信息
 
 import asyncio, os, json, time
